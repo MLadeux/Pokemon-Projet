@@ -1,2 +1,2 @@
-# Polemon-Projet
+# Pokemon-Projet
 Proyecto Pokemon - Cedinsi
